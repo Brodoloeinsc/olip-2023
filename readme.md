@@ -1,8 +1,8 @@
 ## RESOLUÇÕES DA OLIP 2023
 
-### A Olip(Olimpíada Interna de Programação do IFSULDEMINAS) é uma Olimpíada realizada todos os anos
+#### A Olip(Olimpíada Interna de Programação do IFSULDEMINAS) é uma Olimpíada realizada todos os anos
 
-### Nesse repositório eu estou trazendo a resolução das questões contidas no caderno de problemas
+#### Nesse repositório eu estou trazendo a resolução das questões contidas no caderno de problemas
 
 #### 01:
 - A: 3 construtoras se uniram e você deve calcular o novo tempo médio de entrega de cada obra
