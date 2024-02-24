@@ -2,6 +2,6 @@
 
 Description
 
-[] Modifica algo existente
-[] Complementa algo existente
-[] Cria algo nova
+<input type="checkbox"> Modifica algo existente <br>
+<input type="checkbox"> Complementa algo existente <br>
+<input type="checkbox"> Cria algo nova 
